@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ClockOut, a time-tracking and “clock in/clock out”. <br><br>🌱 I’m currently learning Python
+🔭 I’m currently working on the IHS App, a mobile-first web app for Swiss inline hockey: live scores, games, standings and stats for every IHS and SRHV league. <br><br>🌱 I’m currently learning Python
 
 
 # 💻 Tech Stack:
